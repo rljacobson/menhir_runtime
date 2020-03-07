@@ -1,0 +1,8 @@
+[package]
+name = "menhir_runtime"
+version = "0.0.1"
+authors = ["Naomi Testard <naomi.testard@gmail.com>", "Robert Jacobson <rljacobson@gmail.com>"]
+edition = "2018"
+
+[lib]
+name = "menhir_runtime"
